@@ -1,0 +1,10 @@
+Public IP Address: 43.245.202.67Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: David
+Private IP Address: 192.168.56.1
+Public IP Address: 43.245.202.67Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.22631
+Machine: AMD64
+Hostname: David
+Private IP Address: 192.168.56.1
